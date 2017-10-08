@@ -9,16 +9,16 @@ header-img: "img/green.jpg"
 
 我是allenxu，每天在做一些奇怪的事情，有趣是唯一的方向。
 
-现在探索 **机器人的各种玩法** 。
+正在探索 **机器人的各种玩法** 。
 
-###坚信
+## 坚信
 
 
 - Life is short,Try something.
 - Love your life ,help others.
 
 
-###关注：
+## 关注：
 
 
 - Aerospace engineering
@@ -33,7 +33,7 @@ header-img: "img/green.jpg"
 
 
 
-###代表作：
+## 代表作：
 
 - [《The next ten years》](http://allenme.com/blog/)
 
@@ -41,11 +41,11 @@ header-img: "img/green.jpg"
 
 
 
-###我的朋友们
+## 我的朋友们
 
 
 
-###联系
+## 联系
 
 - [博客：www.allenme.com](www.allenme.com)
 
