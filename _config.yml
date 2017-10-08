@@ -8,9 +8,9 @@ url: "http://allenme"
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: "Allenxu"
+  email: allenxugo@gmail.com
+  bio: "make life better"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Allenme"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
