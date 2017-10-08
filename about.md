@@ -1,70 +1,57 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "后现代的奇怪大叔 "
 header-img: "img/green.jpg"
 ---
 
 
-<center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
 
-我是alenxu，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是allenxu，每天在做一些奇怪的事情，有趣是唯一的方向。
 
-现在研习 **认知写作学** 。
+现在探索 **机器人的各种玩法** 。
 
 ###坚信
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
+- Life is short,Try something.
+- Love your life ,help others.
 
 
 ###关注：
 
 
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+- Aerospace engineering
+- Internet and Artificial intelligence
+- Energy Saving 
+- Mhealth
+- Space exploration
+- Music performance 
+- Writing 
+- Investing
 
 
 
 
 ###代表作：
 
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
+- [《The next ten years》](http://allenme.com/blog/)
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
+- [《How we become 》](http://allenme.com/blog/)
 
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
 
 
 ###我的朋友们
 
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
+
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：www.allenme.com](www.allenme.com)
 
-- [微博@CnFeat](http://weibo.com/207775270)
-
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
+- 公众号：allenshare
 
 
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
 
 
 
