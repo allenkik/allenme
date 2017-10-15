@@ -37,7 +37,9 @@ header-img: "img/green.jpg"
 
 - [《The next ten years》](http://allenme.com/blog/)
 
-- [《How we become 》](http://allenme.com/blog/)
+- [《How we become now》](http://allenme.com/blog/)
+
+- [《视觉艺术之古典主义》](http://allenme.com/blog/)
 
 
 
